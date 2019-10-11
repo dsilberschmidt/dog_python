@@ -14,3 +14,6 @@ print("{} is {} and {} is {}.".format(
 if bambi.species == "mammcanichea1":
     print("{0} is a {1}!".format(bambi.name, bambi.species))
 
+maia = Dog("Maia", 10)
+mira = Dog("Mira", 18)
+nur = Dog("Nur", 2)
