@@ -17,3 +17,7 @@ if bambi.species == "mammcanichea1":
 maia = Dog("Maia", 10)
 mira = Dog("Mira", 18)
 nur = Dog("Nur", 2)
+
+def get_biggest_number (*args):
+    print (max (*args))
+
